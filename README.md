@@ -1,5 +1,4 @@
 # Extra Credit
-___
 ## The Problem:
 Let’s consider a long, quiet country road with houses scattered very  sparsely along it. (We can picture the road as a 
 long line segment, with  an eastern endpoint and a western endpoint.) Further, let’s suppose that  despite the bucolic
